@@ -1,0 +1,16 @@
+.container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-flow:row wrap;
+  border: red 1px solid;
+}
+
+.card {
+  width: 20em;
+  height: 25em;
+  border: 1px gray solid;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 1em
+}
